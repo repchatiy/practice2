@@ -1,5 +1,5 @@
 # Герой IO
-[IO](images/wisp.png)
+![IO](images/wisp.png)
 ## О герое
 
 ### Определение героя
